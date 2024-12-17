@@ -1,5 +1,5 @@
 # videoQR
-Creation of videos for Sunbox project.
+Creation of videos for **Sunbox** project.
 
 ## Description
 The files are descriptive:
