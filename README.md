@@ -1,5 +1,5 @@
-# videoQR
-Creation of videos for **Sunbox** project.
+# Sunbox: video sequence creator
+Creation of videos for [**Sunbox** project](https://github.com/mchavezt86/Sunbox/).
 
 ## Description
 The files are descriptive:
